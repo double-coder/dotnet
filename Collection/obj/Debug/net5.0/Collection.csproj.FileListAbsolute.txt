@@ -1,0 +1,16 @@
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\bin\Debug\net5.0\Collection.exe
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\bin\Debug\net5.0\Collection.deps.json
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\bin\Debug\net5.0\Collection.runtimeconfig.json
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\bin\Debug\net5.0\Collection.runtimeconfig.dev.json
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\bin\Debug\net5.0\Collection.dll
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\bin\Debug\net5.0\ref\Collection.dll
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\bin\Debug\net5.0\Collection.pdb
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\Collection.csprojAssemblyReference.cache
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\Collection.AssemblyInfoInputs.cache
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\Collection.AssemblyInfo.cs
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\Collection.dll
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\ref\Collection.dll
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\Collection.pdb
+C:\Users\getad\OneDrive\desktop\learn c#\Collection\obj\Debug\net5.0\Collection.genruntimeconfig.cache
